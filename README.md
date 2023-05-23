@@ -2,7 +2,7 @@
 
 ------CREATE OPENAI KEY------
 MODULES TO INSTALL
-pip install openai
-pip install pyttsx3
-pip install speechrecognition
-pip install webbrowser
+1.pip install openai
+2.pip install pyttsx3
+3.pip install speechrecognition
+4.pip install webbrowser
